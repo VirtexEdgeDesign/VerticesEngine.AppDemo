@@ -1,0 +1,37 @@
+{
+  "gameName": "AppDemo",
+  "nameSpace": "VerticesEngine.AppDemo",
+  "rawJsonInputPath": "../shared/Content/local/.raw/",
+  "codeGenFilePath": "..\\shared\\Localization",
+  "jsonOutputPath": "..\\shared\\Content\\local",
+  "fontFileOutputPath": "..\\shared\\Content\\Fonts",
+  "fontDefns": {
+    "en": {
+      "FontName": "Calibri"
+    },
+    "fr": {
+      "FontName": "Xirod"
+    },
+    "es": {
+      "FontName": "Xirod"
+    },
+    "de": {
+      "FontName": "Xirod"
+    },
+    "it": {
+      "FontName": "Xirod"
+    },
+    "pt": {
+      "FontName": "Xirod"
+    },
+    "ru": {
+      "FontName": "bicubik"
+    },
+    "ko": {
+      "FontName": "Noto Serif KR"
+    },
+    "ja": {
+      "FontName": "RocknRoll One"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "VerticesEngine.AppDemo.Shared", "shared\VerticesEngine.AppDemo.Shared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerticesEngine.AppDemo.Dev", "dev\VerticesEngine.AppDemo.Dev.csproj", "{FE0EEFA5-6993-4F45-9E09-7ED0D26EA5AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerticesEngine.ContentPipeline.Core", "..\..\VerticesEngine.ContentPipeline.Core\src\VerticesEngine.ContentPipeline.Core.csproj", "{5C83CF1E-8418-4173-B87A-AECA9C0DBA45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticesEngine.Core.Dev", "..\..\..\VerticesEngine.Core\src\dev\VerticesEngine.Core.Dev.csproj", "{5E2611A2-B354-437D-AE3E-982DFDA31C2B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "VerticesEngine.Core.Shared", "..\..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.shproj", "{14B4C0B3-E0A6-43E8-9554-C18D867C7D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticesEngine.Physics.Bepu", "..\..\VerticesEngine.Physics.Bepu\src\VerticesEngine.Physics.Bepu.csproj", "{5DAF078E-15EB-405A-90B1-96D8276B6CA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VerticesEngine.Platforms.Itchio.Dev", "..\..\..\VerticesEngine.Platform.Itchio\src\VerticesEngine.Platforms.Itchio.Dev.csproj", "{CF221175-AA15-44C6-BE77-F63704BC1AE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE0EEFA5-6993-4F45-9E09-7ED0D26EA5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0EEFA5-6993-4F45-9E09-7ED0D26EA5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0EEFA5-6993-4F45-9E09-7ED0D26EA5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0EEFA5-6993-4F45-9E09-7ED0D26EA5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C83CF1E-8418-4173-B87A-AECA9C0DBA45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C83CF1E-8418-4173-B87A-AECA9C0DBA45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C83CF1E-8418-4173-B87A-AECA9C0DBA45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C83CF1E-8418-4173-B87A-AECA9C0DBA45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2611A2-B354-437D-AE3E-982DFDA31C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2611A2-B354-437D-AE3E-982DFDA31C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2611A2-B354-437D-AE3E-982DFDA31C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2611A2-B354-437D-AE3E-982DFDA31C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DAF078E-15EB-405A-90B1-96D8276B6CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DAF078E-15EB-405A-90B1-96D8276B6CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DAF078E-15EB-405A-90B1-96D8276B6CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DAF078E-15EB-405A-90B1-96D8276B6CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF221175-AA15-44C6-BE77-F63704BC1AE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF221175-AA15-44C6-BE77-F63704BC1AE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF221175-AA15-44C6-BE77-F63704BC1AE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF221175-AA15-44C6-BE77-F63704BC1AE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BA43FB3-93C0-4F0C-A297-C0F09EA27391}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.projitems*{14b4c0b3-e0a6-43e8-9554-c18d867c7d7c}*SharedItemsImports = 13
+		shared\VerticesEngine.AppDemo.Shared.projitems*{a0cdbd0e-3a41-42b7-9425-a838bc2c7383}*SharedItemsImports = 13
+		..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.projitems*{d2836413-9f5b-4c70-821b-fdce887d3175}*SharedItemsImports = 5
+		shared\VerticesEngine.AppDemo.Shared.projitems*{fe0eefa5-6993-4f45-9e09-7ed0d26ea5ad}*SharedItemsImports = 5
+	EndGlobalSection
+EndGlobal

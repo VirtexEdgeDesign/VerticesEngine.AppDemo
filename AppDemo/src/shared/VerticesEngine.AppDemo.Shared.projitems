@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>6efba8a9-a407-4029-bdd0-651d22a87386</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>VerticesEngineAppDemo.Shared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)ContentPack\BackgroundPostProcess.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ContentPack\BaseGameContentPack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ContentPack\TestContentPack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Content\AssetPaths.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\QuaterPipe.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\GridRamp1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\OABlocks.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\ReflectionSurface.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\HeatHaze.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Plant.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Envrio.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\SciFiCompositieCrate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\ConcreteCube.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\Teapot.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\_TechDemoItem.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\Rock.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\WoodenCrate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\CarChaseCamera.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\DrivableVehicleWheel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\DrivableVehicle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Enums.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Localization\LocalizationKeys.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Properties\AssemblyInfo.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\Demos\BasicScene2D.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UI\Art Providers\MenuArtProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UI\Art Providers\ButtonArtProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UI\Menus\DemoSelectScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\ModelViewerScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\IntroScene.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UI\Menus\MainMenuScreen.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)UI\Art Providers\MenuItemArtProvider.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\Demos\BasicSandboxTestLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\Demos\FPSVillageTestBed.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\Demos\SponzaLightingTestLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\Demos\TechDemoTerrainSampleLevel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\ArenaEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\GridBallx1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\GridCubex2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\GridTetrax2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Grid Entities\GridBallx2.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\CompositieCrate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Metric Test Entities\TrackEntity.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\Metric Test Entities\TrackNode.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Scenes\IntroBackground2D.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Properties\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Entities\Metric Test Entities\" />
+    <Folder Include="$(MSBuildThisFileDirectory)UI\Menus\" />
+    <Folder Include="$(MSBuildThisFileDirectory)Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <MonoGameContentReference Include="$(MSBuildThisFileDirectory)Content\Content.mgcb" />
+    <None Include="$(MSBuildThisFileDirectory)Content\Content.mgcb" />
+    <MonoGameContentReference Include="$(MSBuildThisFileDirectory)Content\vxengine\VerticesEngineContent.mgcb" />
+    <None Include="$(MSBuildThisFileDirectory)Content\vxengine\VerticesEngineContent.mgcb" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0-android</TargetFramework>
+    <SupportedOSPlatformVersion>23</SupportedOSPlatformVersion>
+    <OutputType>Exe</OutputType>
+    <ApplicationId>com.companyname.VerticesEngine.AppDemo.Android</ApplicationId>
+    <ApplicationVersion>1</ApplicationVersion>
+    <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+    <AndroidSigningKeyStore>verticesengine_release.keystore</AndroidSigningKeyStore>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidSigningKeyAlias>verticesengine_release</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>OtlYWnqlP0eue0jU</AndroidSigningKeyPass>
+    <AndroidSigningStorePass>OtlYWnqlP0eue0jU</AndroidSigningStorePass>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidPackageFormat>aab</AndroidPackageFormat>
+    <AndroidSigningKeyAlias>verticesengine_release</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>OtlYWnqlP0eue0jU</AndroidSigningKeyPass>
+    <AndroidSigningStorePass>OtlYWnqlP0eue0jU</AndroidSigningStorePass>
+    <AndroidUseAapt2>True</AndroidUseAapt2>
+    <AndroidCreatePackagePerAbi>False</AndroidCreatePackagePerAbi>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="Content\Content.mgcb" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MonoGame.Content.Builder.Task" Version="3.8.1.303" />
+    <PackageReference Include="MonoGame.Framework.Android" Version="3.8.1.303" />
+    <PackageReference Include="Xamarin.Firebase.Analytics" Version="121.2.0.1" />
+    <PackageReference Include="Xamarin.Firebase.Common" Version="120.2.0.1" />
+    <PackageReference Include="Xamarin.Firebase.Messaging" Version="123.1.1.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\VerticesEngine.Core\src\android\VerticesEngine.Core.Android.csproj" />
+  </ItemGroup>
+  <Target Name="RestoreDotnetTools" BeforeTargets="Restore">
+    <Message Text="Restoring dotnet tools" Importance="High" />
+    <Exec Command="dotnet tool restore" />
+  </Target>
+  <Import Project="..\shared\VerticesEngine.AppDemo.Shared.projitems" Label="Shared" />
+</Project>

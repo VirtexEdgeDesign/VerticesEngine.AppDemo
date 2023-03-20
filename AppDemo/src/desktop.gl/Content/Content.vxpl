@@ -1,0 +1,205 @@
+{
+  "root": "",
+  "projectName": "VerticesEngine.AppDemo",
+  "mgcbPath": "../shared/Content/",
+  "references": [
+    "..\\..\\shared\\Content\\vxengine\\lib\\VerticesEnginePipeline\\VerticesEnginePipeline.dll"
+  ],
+  "content": {
+    "json": {
+      "path": "",
+      "filter": [ ".json" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "JsonImporter",
+      "processor": "JsonProcessor"
+    },
+    "xnb": {
+      "path": "",
+      "filter": [ ".xnb" ],
+      "recursive": "True",
+      "action": "copy"
+    },
+    "fonts": {
+      "path": "",
+      "filter": [ ".spritefont" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "FontDescriptionImporter",
+      "processor": "FontDescriptionProcessor",
+      "processorParam": {
+        "PremultiplyAlpha": "True",
+        "TextureFormat": "Color"
+      }
+    },
+    "models": {
+      "path": "",
+      "filter": [ ".fbx" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "FbxImporter",
+      "processor": "vxMeshProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "DefaultEffect": "BasicEffect",
+        "GenerateMipmaps": "True",
+        "GenerateTangentFrames": "True",
+        "PremultiplyTextureAlpha": "True",
+        "PremultiplyVertexColors": "True",
+        "ResizeTexturesToPowerOfTwo": "False",
+        "RotationX": "0",
+        "RotationY": "0",
+        "RotationZ": "0",
+        "Scale": "1",
+        "SwapWindingOrder": "False",
+        "TextureFormat": "Color"
+      }
+    },
+    "model-textures": {
+      "path": "Models/",
+      "filter": [
+        ".png",
+        ".jpeg",
+        ".jpg",
+        ".tga"
+      ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "TextureImporter",
+      "processor": "TextureProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "GenerateMipmaps": "True",
+        "PremultiplyAlpha": "True",
+        "ResizeToPowerOfTwo": "False",
+        "MakeSquare": "False",
+        "TextureFormat": "Color"
+      }
+    },
+    "textures": {
+      "path": "Textures/",
+      "filter": [
+        ".png",
+        ".jpeg",
+        ".jpg",
+        ".dds"
+      ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "TextureImporter",
+      "processor": "TextureProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "GenerateMipmaps": "False",
+        "PremultiplyAlpha": "True",
+        "ResizeToPowerOfTwo": "False",
+        "MakeSquare": "False",
+        "TextureFormat": "Color"
+      }
+    },
+    "shaders": {
+      "path": "",
+      "filter": [ ".fx" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "EffectImporter",
+      "processor": "EffectProcessor",
+      "processorParam": {
+        "DebugMode": "Auto"
+      }
+    },
+    "music": {
+      "path": "",
+      "filter": [ ".mp3" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "Mp3Importer",
+      "processor": "SongProcessor",
+      "processorParam": {
+        "Quality": "Best"
+      }
+    },
+    "soundeffects": {
+      "path": "",
+      "filter": [ ".wav" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "WavImporter",
+      "processor": "SoundEffectProcessor",
+      "processorParam": {
+        "Quality": "Best"
+      }
+    },
+    "vx-models": {
+      "path": "vxengine/models/",
+      "filter": [ ".fbx" ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "FbxImporter",
+      "processor": "vxMeshProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "DefaultEffect": "BasicEffect",
+        "GenerateMipmaps": "True",
+        "GenerateTangentFrames": "True",
+        "PremultiplyTextureAlpha": "True",
+        "PremultiplyVertexColors": "True",
+        "ResizeTexturesToPowerOfTwo": "False",
+        "RotationX": "0",
+        "RotationY": "0",
+        "RotationZ": "0",
+        "Scale": "1",
+        "SwapWindingOrder": "False",
+        "TextureFormat": "Color"
+      }
+    },
+    "vx-model-textures": {
+      "path": "vxengine/models/",
+      "filter": [
+        ".png",
+        ".jpeg",
+        ".jpg",
+        ".tga"
+      ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "TextureImporter",
+      "processor": "TextureProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "GenerateMipmaps": "True",
+        "PremultiplyAlpha": "True",
+        "ResizeToPowerOfTwo": "False",
+        "MakeSquare": "False",
+        "TextureFormat": "Color"
+      }
+    },
+    "vx-textures": {
+      "path": "vxengine/textures/",
+      "filter": [
+        ".png",
+        ".jpeg",
+        ".jpg",
+        ".dds"
+      ],
+      "recursive": "True",
+      "action": "build",
+      "importer": "TextureImporter",
+      "processor": "TextureProcessor",
+      "processorParam": {
+        "ColorKeyColor": "255,0,255,255",
+        "ColorKeyEnabled": "True",
+        "GenerateMipmaps": "False",
+        "PremultiplyAlpha": "True",
+        "ResizeToPowerOfTwo": "False",
+        "MakeSquare": "False",
+        "TextureFormat": "Color"
+      }
+    }
+  }
+}

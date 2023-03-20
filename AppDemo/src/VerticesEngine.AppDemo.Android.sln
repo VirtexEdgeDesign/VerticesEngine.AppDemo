@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerticesEngine.AppDemo.Android", "android\VerticesEngine.AppDemo.Android.csproj", "{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "VerticesEngine.Core.Shared", "..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.shproj", "{14B4C0B3-E0A6-43E8-9554-C18D867C7D7C}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "VerticesEngine.AppDemo.Shared", "shared\VerticesEngine.AppDemo.Shared.shproj", "{A0CDBD0E-3A41-42B7-9425-A838BC2C7383}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VerticesEngine.Core.Android", "..\..\VerticesEngine.Core\src\android\VerticesEngine.Core.Android.csproj", "{495EAADB-2007-4581-9881-E28D11ADF892}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "VerticesEngine.Net.Lidgren.Shared", "..\..\VerticesEngine.Net.Lidgren\src.shared\VerticesEngine.Net.Lidgren.Shared.shproj", "{333136C0-ED95-43FF-B6B2-5D425789FD30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997742FC-5D17-4DD3-80C9-9BE3C2FE8119}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{495EAADB-2007-4581-9881-E28D11ADF892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495EAADB-2007-4581-9881-E28D11ADF892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495EAADB-2007-4581-9881-E28D11ADF892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495EAADB-2007-4581-9881-E28D11ADF892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {290FFAC8-7D99-4AF1-9DFB-4422A7EF1641}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.projitems*{14b4c0b3-e0a6-43e8-9554-c18d867c7d7c}*SharedItemsImports = 13
+		..\..\VerticesEngine.Net.Lidgren\src.shared\Lidgren.Base.projitems*{333136c0-ed95-43ff-b6b2-5d425789fd30}*SharedItemsImports = 13
+		..\..\VerticesEngine.Core\src\shared\VerticesEngine.Core.Shared.projitems*{495eaadb-2007-4581-9881-e28d11adf892}*SharedItemsImports = 5
+		..\..\VerticesEngine.Net.Lidgren\src.shared\Lidgren.Base.projitems*{495eaadb-2007-4581-9881-e28d11adf892}*SharedItemsImports = 5
+		shared\VerticesEngine.AppDemo.Shared.projitems*{997742fc-5d17-4dd3-80c9-9be3c2fe8119}*SharedItemsImports = 5
+		shared\VerticesEngine.AppDemo.Shared.projitems*{a0cdbd0e-3a41-42b7-9425-a838bc2c7383}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

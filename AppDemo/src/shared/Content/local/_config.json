@@ -1,0 +1,37 @@
+{
+  "gameName": "Metric",
+  "nameSpace": "MetricRacer",
+  "rawJsonInputPath": "C:\\Users\\robto\\Downloads",
+  "codeGenFilePath": "D:\\Virtex\\VerticesEngine-2.0\\VerticesEngine.AppDemo\\src\\shared\\Localization",
+  "jsonOutputPath": "D:\\Virtex\\VerticesEngine-2.0\\VerticesEngine.AppDemo\\src\\shared\\Content\\local",
+  "fontFileOutputPath": "D:\\Virtex\\VerticesEngine-2.0\\VerticesEngine.AppDemo\\src\\shared\\Content\\Fonts",
+  "fontDefns": {
+    "en": {
+      "FontName": "Xirod"
+    },
+    "fr": {
+      "FontName": "Xirod"
+    },
+    "es": {
+      "FontName": "Xirod"
+    },
+    "de": {
+      "FontName": "Xirod"
+    },
+    "it": {
+      "FontName": "Xirod"
+    },
+    "pt": {
+      "FontName": "Xirod"
+    },
+    "ru": {
+      "FontName": "bicubik"
+    },
+    "ko": {
+      "FontName": "Noto Serif KR"
+    },
+    "ja": {
+      "FontName": "RocknRoll One"
+    }
+  }
+}
