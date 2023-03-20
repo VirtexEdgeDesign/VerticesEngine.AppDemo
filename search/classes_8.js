@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['local_0',['Local',['../class_vertices_engine_1_1_app_demo_1_1_asset_paths_1_1_local.html',1,'VerticesEngine::AppDemo::AssetPaths']]]
+  ['keyboardsettings_0',['KeyboardSettings',['../class_vertices_engine_1_1_input_1_1vx_input_1_1_keyboard_settings.html',1,'VerticesEngine::Input::vxInput']]],
+  ['keyboardutils_1',['KeyboardUtils',['../class_vertices_engine_1_1_diagnostics_1_1_keyboard_utils.html',1,'VerticesEngine::Diagnostics']]]
 ];

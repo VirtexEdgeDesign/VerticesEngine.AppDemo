@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readme_0',['README',['../md__github_workspace_src__app_demo__r_e_a_d_m_e.html',1,'']]]
+  ['license_0',['LICENSE',['../md__github_workspace_src__platform__itchio__l_i_c_e_n_s_e.html',1,'']]]
 ];
