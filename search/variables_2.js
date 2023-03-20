@@ -1,4 +1,29 @@
 var searchData=
 [
-  ['forwardspeed_0',['ForwardSpeed',['../class_virtex_template_1_1_vehicle_input.html#a8b70a7327cbddda47a191ac356c304ce',1,'VirtexTemplate::VehicleInput']]]
+  ['camera_0',['Camera',['../class_virtex_template_1_1_vehicle_input.html#aa6c1a42ffedbc890da5c50376228ef67',1,'VirtexTemplate::VehicleInput']]],
+  ['cameraoffset_1',['CameraOffset',['../class_virtex_template_1_1_vehicle_input.html#a8d6e3e9874d19b7f7b90e4c9182a62de',1,'VirtexTemplate.VehicleInput.CameraOffset()'],['../class_vertices_engine_1_1_app_demo_1_1_drivable_vehicle.html#a29f7297b796c40ee32b6ef3dc8be4a07',1,'VerticesEngine.AppDemo.DrivableVehicle.CameraOffset()']]],
+  ['cancelbutton_2',['CancelButton',['../class_vertices_engine_1_1_u_i_1_1_dialogs_1_1vx_dialog_base.html#ae04696f777cbbfc8bfd7f962c3c321b1',1,'VerticesEngine::UI::Dialogs::vxDialogBase']]],
+  ['cantakeinput_3',['CanTakeInput',['../class_vertices_engine_1_1vx_camera.html#a7582068a626d0f031f6c1d0bb6ceff46',1,'VerticesEngine::vxCamera']]],
+  ['caretalpha_4',['CaretAlpha',['../class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_textbox.html#abae20cf9251e1a94f70c02c21eda5c8a',1,'VerticesEngine::UI::Controls::vxTextbox']]],
+  ['caretindex_5',['CaretIndex',['../class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_textbox.html#afb3ab844138fa589bcbd72dc5ce3918f',1,'VerticesEngine::UI::Controls::vxTextbox']]],
+  ['caretposition_6',['CaretPosition',['../class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_textbox.html#a4ddf6f2bc41d89c1e1d19e21664b4f08',1,'VerticesEngine::UI::Controls::vxTextbox']]],
+  ['character_7',['character',['../class_vertices_engine_1_1vx_gameplay_scene3_d.html#a15d3d565c5f4d674095a6c42a9afc77a',1,'VerticesEngine::vxGameplayScene3D']]],
+  ['charactercontroller_8',['CharacterController',['../class_vertices_engine_1_1_controllers_1_1_character_controller_input.html#a1390c6ae79d42cb640d3c80f6445d9cd',1,'VerticesEngine::Controllers::CharacterControllerInput']]],
+  ['choices_9',['Choices',['../class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_combo_box.html#a9ca050bbd206604865778c9b82b74285',1,'VerticesEngine::UI::Controls::vxComboBox']]],
+  ['clientarea_10',['ClientArea',['../class_vertices_engine_1_1_u_i_1_1vx_layout.html#a11cb3ca5d7857fae84c278822a114eb8',1,'VerticesEngine::UI::vxLayout']]],
+  ['clientcallbackloop_11',['ClientCallBackLoop',['../class_vertices_engine_1_1_net_1_1_u_i_1_1vx_sever_lobby_dialog.html#a5130cb1de5bc6d7f0afc404908b35986',1,'VerticesEngine::Net::UI::vxSeverLobbyDialog']]],
+  ['cmdlineargs_12',['CMDLineArgs',['../class_vertices_engine_1_1vx_engine.html#a293f28e4280cf68eb7f96864786f8597',1,'VerticesEngine::vxEngine']]],
+  ['color_13',['Color',['../class_vertices_engine_1_1_graphics_1_1vx_light_entity.html#a344ed82c489aa6b18ec798667cc351bf',1,'VerticesEngine::Graphics::vxLightEntity']]],
+  ['configoptions_14',['ConfigOptions',['../class_vertices_engine_1_1vx_game_configurations_attribute.html#acb81b9ae686eb805f8aa3e0c761a2317',1,'VerticesEngine::vxGameConfigurationsAttribute']]],
+  ['crouchingcameraoffset_15',['CrouchingCameraOffset',['../class_vertices_engine_1_1_controllers_1_1_character_camera_control_scheme.html#a920fe0117eb487f7f204c5fa8b7c3090',1,'VerticesEngine::Controllers::CharacterCameraControlScheme']]],
+  ['currentcmdindex_16',['CurrentCmdIndex',['../class_vertices_engine_1_1_commands_1_1vx_command_manager.html#aa4bcdc6b498fae0c75e0b76cca722d0e',1,'VerticesEngine::Commands::vxCommandManager']]],
+  ['currentlineindex_17',['CurrentLineIndex',['../class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_textbox.html#af62db14dbb155e4b55f87aa9395f207a',1,'VerticesEngine::UI::Controls::vxTextbox']]],
+  ['currentlyselectedkey_18',['CurrentlySelectedKey',['../class_vertices_engine_1_1vx_gameplay_scene3_d.html#a14ca4c641090fb7dce5e0cfd7c7143b5',1,'VerticesEngine::vxGameplayScene3D']]],
+  ['currentscene_19',['CurrentScene',['../class_vertices_engine_1_1vx_engine.html#ac3bad54728e8b275f837a9d3f9fe0a9a',1,'VerticesEngine::vxEngine']]],
+  ['cursorpixel_20',['CursorPixel',['../class_vertices_engine_1_1_input_1_1vx_input.html#a746347819959f15f89b871881ca59831',1,'VerticesEngine::Input::vxInput']]],
+  ['cursorsprite_21',['CursorSprite',['../class_vertices_engine_1_1_input_1_1vx_input.html#a59aad590345764e352a469996f8477c5',1,'VerticesEngine::Input::vxInput']]],
+  ['cursorspritecolour_22',['CursorSpriteColour',['../class_vertices_engine_1_1_input_1_1vx_input.html#acad6be0920f51360bb2626b9111b1b3f',1,'VerticesEngine::Input::vxInput']]],
+  ['cursorspritecolouronclick_23',['CursorSpriteColourOnClick',['../class_vertices_engine_1_1_input_1_1vx_input.html#ab691dadf69899a5f0010b75ba848b8cb',1,'VerticesEngine::Input::vxInput']]],
+  ['cursorspriterotation_24',['CursorSpriteRotation',['../class_vertices_engine_1_1_input_1_1vx_input.html#af48cf07e12c444728172aa362fa9ae9b',1,'VerticesEngine::Input::vxInput']]],
+  ['cursorspritescale_25',['CursorSpriteScale',['../class_vertices_engine_1_1_input_1_1vx_input.html#a891d7db120e102e8116e1ceedb84e289',1,'VerticesEngine::Input::vxInput']]]
 ];
