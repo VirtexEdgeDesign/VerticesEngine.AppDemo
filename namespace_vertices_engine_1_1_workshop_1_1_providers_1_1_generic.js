@@ -1,4 +1,0 @@
-var namespace_vertices_engine_1_1_workshop_1_1_providers_1_1_generic =
-[
-    [ "vxGenericWorkshopWrapper", "class_vertices_engine_1_1_workshop_1_1_providers_1_1_generic_1_1vx_generic_workshop_wrapper.html", "class_vertices_engine_1_1_workshop_1_1_providers_1_1_generic_1_1vx_generic_workshop_wrapper" ]
-];
