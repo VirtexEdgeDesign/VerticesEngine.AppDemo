@@ -4,3 +4,6 @@
 [submodule "src/Platforms/Steam"]
 	path = src/Platforms/Steam
 	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Platform.Steam.git
+[submodule "src/Platforms/Itchio"]
+	path = src/Platforms/Itchio
+	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Platform.Itchio.git
