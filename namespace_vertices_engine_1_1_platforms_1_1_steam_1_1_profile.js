@@ -1,0 +1,4 @@
+var namespace_vertices_engine_1_1_platforms_1_1_steam_1_1_profile =
+[
+    [ "vxPlayerProfileSteamWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper" ]
+];

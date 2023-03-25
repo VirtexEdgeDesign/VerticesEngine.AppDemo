@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['readme_0',['README',['../md__github_workspace_src__app_demo__r_e_a_d_m_e.html',1,'']]]
+  ['in_20app_20purchases_0',['In App Purchases',['../md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html',1,'']]]
 ];

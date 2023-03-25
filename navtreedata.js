@@ -325,6 +325,83 @@ var NAVTREE =
     ] ],
     [ "LICENSE", "md__github_workspace_src__platform__itchio__l_i_c_e_n_s_e.html", null ],
     [ "VerticesEngine.Platform.Itchio", "md__github_workspace_src__platform__itchio__r_e_a_d_m_e.html", null ],
+    [ "Vertices Engine Tempaltes", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html", [
+      [ "Status", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md257", null ],
+      [ "Games", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md258", [
+        [ "The Chaotic Workshop", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md259", null ],
+        [ "Space Esc8bit", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md260", null ],
+        [ "Metric Racer", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md261", null ]
+      ] ],
+      [ "Features", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md262", [
+        [ "Cross Platform", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md263", null ],
+        [ "In-game Sandbox for Rapid Level Design", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md264", null ],
+        [ "Integrated Terrain Editor", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md265", null ],
+        [ "Customizable and Sinkable GUI system", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md266", null ],
+        [ "Integrated Debug System", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md267", null ],
+        [ "Farseer and BEPU physics library support", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md268", null ],
+        [ "Networking", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md269", null ]
+      ] ],
+      [ "Rendering Pipeline", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md270", [
+        [ "Deferred Renderer", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md271", null ],
+        [ "Cascade Shadow Mapping", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md272", null ],
+        [ "Crepuscular Rays(God Rays)", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md273", null ],
+        [ "Screen Space Reflections", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md274", null ],
+        [ "SSAO", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md275", null ],
+        [ "Motion Blur", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md276", null ],
+        [ "Depth of Field", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md277", null ],
+        [ "Emissive Materials", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md278", null ],
+        [ "Renderering Debug", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md279", null ]
+      ] ],
+      [ "Support", "md__github_workspace_src__platforms__steam_docs__r_e_a_d_m_e.html#autotoc_md280", null ]
+    ] ],
+    [ "Plugins", "md__github_workspace_src__platforms__steam_docs_wiki__mods__plugins.html", null ],
+    [ "Setting Up AdMob", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__ad_mod.html", [
+      [ "Android", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__ad_mod.html#autotoc_md283", null ],
+      [ "iOS", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__ad_mod.html#autotoc_md284", null ]
+    ] ],
+    [ "In App Purchases", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html", [
+      [ "Setup", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html#autotoc_md286", [
+        [ "Android", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html#autotoc_md287", null ]
+      ] ],
+      [ "Product Keys and SKU", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html#autotoc_md288", null ],
+      [ "Initialise Products", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html#autotoc_md289", null ],
+      [ "Check If Purchased", "md__github_workspace_src__platforms__steam_docs_wiki__monetization__in_app_purchases.html#autotoc_md290", null ]
+    ] ],
+    [ "Creating Custom Post Processes", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_custom_rendering_passes.html", null ],
+    [ "Rendering Pipeline", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html", [
+      [ "Camera.Render();", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md293", [
+        [ "SetViewPort();", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md294", null ],
+        [ "Renderer.Prepare();", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md295", null ],
+        [ "Renderer.DrawScene();", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md296", null ],
+        [ "Renderer.ApplyPostProcess();", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md297", null ],
+        [ "Finalise", "md__github_workspace_src__platforms__steam_docs_wiki__rendering_rendering.html#autotoc_md298", null ]
+      ] ]
+    ] ],
+    [ "Sandbox", "md__github_workspace_src__platforms__steam_docs_wiki__sandbox_sandbox.html", [
+      [ "Registering Items", "md__github_workspace_src__platforms__steam_docs_wiki__sandbox_sandbox.html#autotoc_md300", null ],
+      [ "Registering Particles", "md__github_workspace_src__platforms__steam_docs_wiki__sandbox_sandbox.html#autotoc_md301", null ]
+    ] ],
+    [ "Sound Effects", "md__github_workspace_src__platforms__steam_docs_wiki__sound__sound.html", [
+      [ "Loading Sound Effects", "md__github_workspace_src__platforms__steam_docs_wiki__sound__sound.html#autotoc_md303", null ],
+      [ "Playing Sound Effects", "md__github_workspace_src__platforms__steam_docs_wiki__sound__sound.html#autotoc_md304", null ]
+    ] ],
+    [ "Vertices Engine Wiki", "md__github_workspace_src__platforms__steam_docs_wiki_wiki.html", null ],
+    [ "Vertices Engine - Steam Platform Support", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html", [
+      [ "Status", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md307", [
+        [ "Build Status", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md308", null ]
+      ] ],
+      [ "<a href=\"https://virtexedge.github.io/VerticesEngine/\" >Documentation</a>", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md309", null ],
+      [ "<a href=\"https://discord.gg/y77qy7Avhx\" >Discord</a>", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md310", null ],
+      [ "Support", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md311", null ]
+    ] ],
+    [ "Vertices Engine - Steam Platform Support", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html", [
+      [ "Status", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html#autotoc_md313", [
+        [ "Build Status", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html#autotoc_md314", null ]
+      ] ],
+      [ "<a href=\"https://virtexedge.github.io/VerticesEngine/\" >Documentation</a>", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html#autotoc_md315", null ],
+      [ "<a href=\"https://discord.gg/y77qy7Avhx\" >Discord</a>", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html#autotoc_md316", null ],
+      [ "Support", "md__github_workspace_src__platforms__steam_src__r_e_a_d_m_e.html#autotoc_md317", null ]
+    ] ],
     [ "Packages", "namespaces.html", [
       [ "Package List", "namespaces.html", "namespaces_dup" ],
       [ "Package Members", "namespacemembers.html", [
@@ -364,27 +441,28 @@ var NAVTREEINDEX =
 "class_vertices_engine_1_1_monetization_1_1_ads_1_1vx_ad_manager.html",
 "class_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_level_meta_data.html#abd2228cd410874c464df1aedda5eaed9",
 "class_vertices_engine_1_1_net_1_1vx_network_server.html#a78d97d1c8dfae02fbb1313da537743cf",
-"class_vertices_engine_1_1_profile_1_1vx_player_profile_generic_wrapper.html#a09c054ca0435024d334fc7e1ae31bdea",
-"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_canvas.html#aa980fe04f3792797da321446b34655fb",
-"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_property_control_textbox.html#a96e32d80a2a9d4e673a2546910327117",
-"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_scroll_panel_combox_box_item.html#ae8d2839f5e2bca6d031dab8cd74aa298",
-"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_toggle_image_button.html#a55d743f4ec288b22dd0071ae57dc89b3",
-"class_vertices_engine_1_1_u_i_1_1_dialogs_1_1vx_graphic_settings_dialog.html#aef9d77dcd737ac0d20daac01f36d3c43",
-"class_vertices_engine_1_1_u_i_1_1_message_boxs_1_1vx_message_box.html#aaa98576ad9e317542000c73b3cc7968c",
-"class_vertices_engine_1_1_u_i_1_1_themes_1_1vx_toolbar_art_provider.html#a4740ca0a068b80c7fa8237569ef2fb4e",
-"class_vertices_engine_1_1_u_i_1_1vx_u_i_control.html#a73cd5128a22eb9af21e7f7bfa983f907",
-"class_vertices_engine_1_1_workshop_1_1_providers_1_1_generic_1_1vx_generic_workshop_wrapper.html#a800539de24025227a4643e16c92f96c1",
-"class_vertices_engine_1_1vx_camera_free_roam_controller.html",
-"class_vertices_engine_1_1vx_entity2_d.html#a3a4aa315dbad21b588e3a91e14d90154",
-"class_vertices_engine_1_1vx_gameplay_scene2_d.html#a0bd55d977e7dc481d1d75d3c54845bf0",
-"class_vertices_engine_1_1vx_gameplay_scene_base.html#ab2ba4e67ee8e9f187168231496e05dc7",
-"class_vertices_engine_1_1vx_random.html",
-"class_vertices_engine_app_demo_1_1_shared_1_1_game1.html",
-"hierarchy.html",
-"interface_vertices_engine_1_1_profile_1_1vx_i_player_profile.html",
-"md__github_workspace_src__core_src_ios__r_e_a_d_m_e.html#autotoc_md172",
-"namespace_vertices_engine_1_1_graphics_1_1_animation.html",
-"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_net_msg_server_info.html#af82b47879aa691ee4170fb224cf4ea20"
+"class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html#a8aa5fe629b928521870dfe5b73d90f3d",
+"class_vertices_engine_1_1_serilization_1_1vx_serializable_entity_state3_d.html",
+"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_notification_manager_1_1_configs.html",
+"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_sandbox_imported_item_button.html",
+"class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_tab_control.html#a8bc1b6f2c2bc0163000ddf3f75381f46",
+"class_vertices_engine_1_1_u_i_1_1_dialogs_1_1vx_file_dialog_item.html",
+"class_vertices_engine_1_1_u_i_1_1_menus_1_1vx_menu_base_screen.html#a3a5c3e1174d13c833431b40a3b02c8e3",
+"class_vertices_engine_1_1_u_i_1_1_themes_1_1vx_menu_screen_art_provider.html#aeb409f2ffcfeb7924b441e1bb8a62f0e",
+"class_vertices_engine_1_1_u_i_1_1vx_u_i_art_provider.html#ae4a1127cdf523ad974019829e57908d7",
+"class_vertices_engine_1_1_utilities_1_1vx_geometry_helper.html#afe2fcc530a073fe415d2b4c073489e5d",
+"class_vertices_engine_1_1vx_camera.html#afdb4bcfdf954f5ea43638d68637644a1",
+"class_vertices_engine_1_1vx_engine.html#a8dee450b3e3d36637ff7ac1e25586626",
+"class_vertices_engine_1_1vx_game.html#ad8df8e66fb21ad78b92ebc608caec679",
+"class_vertices_engine_1_1vx_gameplay_scene3_d.html#afc802103718ad1c58a7e64a15200f416",
+"class_vertices_engine_1_1vx_math_helper.html#a93ad16bfb49745b6754695b45aada17bad3f695daae853cc43825cc60aee94f2f",
+"class_vertices_engine_1_1vx_settings_attribute.html",
+"functions_func_c.html",
+"interface_vertices_engine_1_1_net_1_1vx_i_network_config.html#a07a35c0061cd3823a7cde892b631d528",
+"md__github_workspace_src__core_src_android__r_e_a_d_m_e.html#autotoc_md104",
+"namespace_vertices_engine.html#a42b8d3cb4121d9a9511af817bcff22c1a344a7f427fb765610ef96eb7bce95257",
+"namespace_vertices_engine_1_1_physics.html#a5bc6adbf24b5524bc4c00981a1a560c7a971fd8cc345d8bd9f92e9f7d88fdf20c",
+"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_update_player_lobby_status.html#ad8333041bcc70b11b2de51949b648519"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

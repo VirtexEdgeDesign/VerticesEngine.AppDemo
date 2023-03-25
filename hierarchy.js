@@ -686,6 +686,7 @@ var hierarchy =
     ] ],
     [ "VerticesEngine.Profile.vxIPlayerProfile", "interface_vertices_engine_1_1_profile_1_1vx_i_player_profile.html", [
       [ "VerticesEngine.Platforms.Itchio.Profile.vxPlayerProfileItchIoWrapper", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper.html", null ],
+      [ "VerticesEngine.Platforms.Steam.Profile.vxPlayerProfileSteamWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html", null ],
       [ "VerticesEngine.Profile.vxPlayerProfileGenericWrapper", "class_vertices_engine_1_1_profile_1_1vx_player_profile_generic_wrapper.html", null ]
     ] ],
     [ "VerticesEngine.Plugins.vxIPlugin", "interface_vertices_engine_1_1_plugins_1_1vx_i_plugin.html", [
@@ -723,8 +724,11 @@ var hierarchy =
     [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioAPIResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_a_p_i_response.html", null ],
     [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioProfileResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_profile_response.html", null ],
     [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioUserResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_user_response.html", null ],
-    [ "VerticesEngine.Workshop.vxIWorkshopItem", "interface_vertices_engine_1_1_workshop_1_1vx_i_workshop_item.html", null ],
+    [ "VerticesEngine.Workshop.vxIWorkshopItem", "interface_vertices_engine_1_1_workshop_1_1vx_i_workshop_item.html", [
+      [ "VerticesEngine.Platforms.Steam.Workshop.vxSteamWorkshopItem", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_item.html", null ]
+    ] ],
     [ "VerticesEngine.Workshop.vxIWorkshopWrapper", "interface_vertices_engine_1_1_workshop_1_1vx_i_workshop_wrapper.html", [
+      [ "VerticesEngine.Platforms.Steam.Workshop.vxSteamWorkshopWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_wrapper.html", null ],
       [ "VerticesEngine.Workshop.Providers.Generic.vxGenericWorkshopWrapper", "class_vertices_engine_1_1_workshop_1_1_providers_1_1_generic_1_1vx_generic_workshop_wrapper.html", null ]
     ] ],
     [ "VerticesEngine.Input.vxKeyBinding", "class_vertices_engine_1_1_input_1_1vx_key_binding.html", null ],

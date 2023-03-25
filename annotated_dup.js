@@ -391,6 +391,15 @@ var annotated_dup =
             [ "vxItchioUserResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_user_response.html", null ],
             [ "vxPlayerProfileItchIoWrapper", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper" ]
           ] ]
+        ] ],
+        [ "Steam", "namespace_vertices_engine_1_1_platforms_1_1_steam.html", [
+          [ "Profile", "namespace_vertices_engine_1_1_platforms_1_1_steam_1_1_profile.html", [
+            [ "vxPlayerProfileSteamWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper" ]
+          ] ],
+          [ "Workshop", "namespace_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop.html", [
+            [ "vxSteamWorkshopItem", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_item.html", null ],
+            [ "vxSteamWorkshopWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_wrapper" ]
+          ] ]
         ] ]
       ] ],
       [ "Plugins", "namespace_vertices_engine_1_1_plugins.html", [
