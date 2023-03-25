@@ -1,9 +1,6 @@
 [submodule "src/Core"]
 	path = src/Core
 	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Core.git
-[submodule "src/Platform/Itchio"]
-	path = src/Platform/Itchio
-	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Platform.Itchio.git
 [submodule "src/Platforms/Steam"]
 	path = src/Platforms/Steam
 	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Platform.Steam.git
