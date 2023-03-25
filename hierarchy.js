@@ -685,6 +685,7 @@ var hierarchy =
       [ "VerticesEngine.Physics.BEPU.vxBEPUPhysicsSystem", "class_vertices_engine_1_1_physics_1_1_b_e_p_u_1_1vx_b_e_p_u_physics_system.html", null ]
     ] ],
     [ "VerticesEngine.Profile.vxIPlayerProfile", "interface_vertices_engine_1_1_profile_1_1vx_i_player_profile.html", [
+      [ "VerticesEngine.Platforms.Itchio.Profile.vxPlayerProfileItchIoWrapper", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper.html", null ],
       [ "VerticesEngine.Platforms.Steam.Profile.vxPlayerProfileSteamWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html", null ],
       [ "VerticesEngine.Profile.vxPlayerProfileGenericWrapper", "class_vertices_engine_1_1_profile_1_1vx_player_profile_generic_wrapper.html", null ]
     ] ],
@@ -720,6 +721,9 @@ var hierarchy =
       [ "VerticesEngine.vxGameObject", "class_vertices_engine_1_1vx_game_object.html", null ],
       [ "VerticesEngine.vxSceneProperties", "class_vertices_engine_1_1vx_scene_properties.html", null ]
     ] ],
+    [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioAPIResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_a_p_i_response.html", null ],
+    [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioProfileResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_profile_response.html", null ],
+    [ "VerticesEngine.Platforms.Itchio.Profile.vxItchioUserResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_user_response.html", null ],
     [ "VerticesEngine.Workshop.vxIWorkshopItem", "interface_vertices_engine_1_1_workshop_1_1vx_i_workshop_item.html", [
       [ "VerticesEngine.Platforms.Steam.Workshop.vxSteamWorkshopItem", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_workshop_1_1vx_steam_workshop_item.html", null ]
     ] ],

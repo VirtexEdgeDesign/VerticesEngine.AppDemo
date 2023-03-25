@@ -110,22 +110,22 @@ $(document).ready(function(){initNavTree('md__github_workspace_src__platforms__s
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>The rendering pipeline works by the following method:</p>
-<h1><a class="anchor" id="autotoc_md267"></a>
+<h1><a class="anchor" id="autotoc_md293"></a>
 Camera.Render();</h1>
 <p>Each Camera will then render, calling their post processing stack.</p>
-<h2><a class="anchor" id="autotoc_md268"></a>
+<h2><a class="anchor" id="autotoc_md294"></a>
 SetViewPort();</h2>
 <p>The camera set's the graphics devices' viewport to it's bounds</p>
-<h2><a class="anchor" id="autotoc_md269"></a>
+<h2><a class="anchor" id="autotoc_md295"></a>
 Renderer.Prepare();</h2>
 <p>The renderer does a prep pass creating masks and maps which will be used later on.</p>
-<h2><a class="anchor" id="autotoc_md270"></a>
+<h2><a class="anchor" id="autotoc_md296"></a>
 Renderer.DrawScene();</h2>
 <p>This draws the scene with the default scene renderer.</p>
-<h2><a class="anchor" id="autotoc_md271"></a>
+<h2><a class="anchor" id="autotoc_md297"></a>
 Renderer.ApplyPostProcess();</h2>
 <p>This draws the required Post Process for the in the stack</p>
-<h2><a class="anchor" id="autotoc_md272"></a>
+<h2><a class="anchor" id="autotoc_md298"></a>
 Finalise</h2>
 <p>The camera draws it's result to a render texture which will then be composited at the very end by the Engine. </p>
 </div></div><!-- contents -->

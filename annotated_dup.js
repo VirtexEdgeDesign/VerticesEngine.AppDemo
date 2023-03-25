@@ -384,6 +384,14 @@ var annotated_dup =
         [ "vxStaticMeshCollider", "interface_vertices_engine_1_1_physics_1_1vx_static_mesh_collider.html", null ]
       ] ],
       [ "Platforms", "namespace_vertices_engine_1_1_platforms.html", [
+        [ "Itchio", "namespace_vertices_engine_1_1_platforms_1_1_itchio.html", [
+          [ "Profile", "namespace_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile.html", [
+            [ "vxItchioAPIResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_a_p_i_response.html", null ],
+            [ "vxItchioProfileResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_profile_response.html", null ],
+            [ "vxItchioUserResponse", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_itchio_user_response.html", null ],
+            [ "vxPlayerProfileItchIoWrapper", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_itchio_1_1_profile_1_1vx_player_profile_itch_io_wrapper" ]
+          ] ]
+        ] ],
         [ "Steam", "namespace_vertices_engine_1_1_platforms_1_1_steam.html", [
           [ "Profile", "namespace_vertices_engine_1_1_platforms_1_1_steam_1_1_profile.html", [
             [ "vxPlayerProfileSteamWrapper", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper.html", "class_vertices_engine_1_1_platforms_1_1_steam_1_1_profile_1_1vx_player_profile_steam_wrapper" ]
