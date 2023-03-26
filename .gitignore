@@ -215,3 +215,5 @@ ModelManifest.xml
 *.blend1
 *.DS_Store
 *.rar
+
+src/AppDemo/src/.idea/
