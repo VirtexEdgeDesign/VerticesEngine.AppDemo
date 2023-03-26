@@ -26,6 +26,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\_TechDemoItem.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\Rock.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Sandbox Entities\WoodenCrate.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Entities\VehicleInput.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\CarChaseCamera.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\DrivableVehicleWheel.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Entities\Vehicles\DrivableVehicle.cs" />
