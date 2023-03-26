@@ -1,4 +1,4 @@
-// VerticesEngine Content Pipeline v0.2.0.2. Generated for 881 Assets
+// VerticesEngine Content Pipeline v0.2.0.2. Generated for 879 Assets
 
 
 namespace VerticesEngine.AppDemo
@@ -436,21 +436,6 @@ namespace VerticesEngine.AppDemo
 			public const string TEXTURES_SANDBOX_TLBR_MISC_REF_BULLET_TOGGLE_PLUS_COPY_PNG="vxengine/textures/sandbox/tlbr/misc/ref/bullet_toggle_plus copy";
 			public const string TEXTURES_SANDBOX_TLBR_MISC_REF_TOGGLE_EXPAND_PNG="vxengine/textures/sandbox/tlbr/misc/ref/toggle_expand";
 			public const string TEXTURES_SANDBOX_TLBR_MISC_REF_CHECK_BOX_PNG="vxengine/textures/sandbox/tlbr/misc/ref/check_box";
-			public const string MODELS_TITLESCREEN_SPHERE_SPHERE_FBX="vxengine/models/titleScreen/sphere/sphere";
-			public const string MODELS_TITLESCREEN_LOGO_SPLIITER_DARK_PNG="vxengine/models/titleScreen/logo/spliiter_dark";
-			public const string MODELS_TITLESCREEN_LOGO_SPLIITER_PNG="vxengine/models/titleScreen/logo/spliiter";
-			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_TITLE_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_title";
-			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_TITLE_DARK_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark";
-			public const string MODELS_TITLESCREEN_LOGO_VRTX_LOGO_BTN_PNG="vxengine/models/titleScreen/logo/vrtx/logo_btn";
-			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_BTN_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_btn";
-			public const string MODELS_TITLESCREEN_LOGO_VRTX_LOGO_72_PNG="vxengine/models/titleScreen/logo/vrtx/logo_72";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_512_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_BUILT_WITH_PNG="vxengine/models/titleScreen/logo/vrtc/built_with";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_TITLE_DARK_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_TITLE_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_title";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_256_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_BUILT_WITH_DARK_PNG="vxengine/models/titleScreen/logo/vrtc/built_with_dark";
-			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_128_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128";
 			public const string TITLESCREEN_SPHERE_SPHERE_FBX="vxengine/titleScreen/sphere/sphere";
 			public const string SNDFX_MENU_CLICK_ERROR_MP3="vxengine/sndFx/Menu/Click/error";
 			public const string SNDFX_MENU_CLICK_WAV="vxengine/sndFx/Menu/click";
@@ -465,8 +450,21 @@ namespace VerticesEngine.AppDemo
 			public const string SNDFX_MENU_CLICK_PREVIOUS_MENU_CLICK_WAV="vxengine/sndFx/Menu/Click/previous/Menu_Click";
 			public const string SNDFX_MENU_CLICK_PREVIOUS_1MENU_CLICK_WAV="vxengine/sndFx/Menu/Click/previous/1Menu_Click";
 			public const string SNDFX_MENU_CLICK_PREVIOUS_2MENU_CLICK_WAV="vxengine/sndFx/Menu/Click/previous/2Menu_Click";
-			public const string MODELS_LGHTNG_UNIT_SPHERE_FBX="vxengine/models/lghtng/unit_sphere";
-			public const string MODELS_LGHTNG_UNIT_SPHERE_MG_FBX="vxengine/models/lghtng/unit_sphere_mg";
+			public const string MODELS_TITLESCREEN_SPHERE_SPHERE_FBX="vxengine/models/titleScreen/sphere/sphere";
+			public const string MODELS_TITLESCREEN_LOGO_SPLIITER_PNG="vxengine/models/titleScreen/logo/spliiter";
+			public const string MODELS_TITLESCREEN_LOGO_SPLIITER_DARK_PNG="vxengine/models/titleScreen/logo/spliiter_dark";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_BUILT_WITH_PNG="vxengine/models/titleScreen/logo/vrtc/built_with";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_BUILT_WITH_DARK_PNG="vxengine/models/titleScreen/logo/vrtc/built_with_dark";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_128_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_256_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_LOGO_512_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_TITLE_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_title";
+			public const string MODELS_TITLESCREEN_LOGO_VRTC_VRTC_TITLE_DARK_PNG="vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark";
+			public const string MODELS_TITLESCREEN_LOGO_VRTX_LOGO_72_PNG="vxengine/models/titleScreen/logo/vrtx/logo_72";
+			public const string MODELS_TITLESCREEN_LOGO_VRTX_LOGO_BTN_PNG="vxengine/models/titleScreen/logo/vrtx/logo_btn";
+			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_BTN_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_btn";
+			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_TITLE_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_title";
+			public const string MODELS_TITLESCREEN_LOGO_VRTX_VRTX_TITLE_DARK_PNG="vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark";
 			public const string FONTS_FONT_SPLASH_24_SPRITEFONT="vxengine/fonts/font_splash_24";
 		}
 

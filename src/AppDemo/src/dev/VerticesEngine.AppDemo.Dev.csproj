@@ -35,7 +35,6 @@
     <LocalizerConfigReferences Remove="Content\config.vxlocalizer" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\VerticesEngine.Core\src\dev\VerticesEngine.Core.Dev.csproj" />
-    <ProjectReference Include="..\..\..\VerticesEngine.Physics.Bepu\src\VerticesEngine.Physics.Bepu.csproj" />
+    <ProjectReference Include="..\..\..\Core\src\dev\VerticesEngine.Core.Dev.csproj" />
   </ItemGroup>
 </Project>

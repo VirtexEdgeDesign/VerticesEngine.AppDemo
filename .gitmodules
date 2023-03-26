@@ -7,3 +7,12 @@
 [submodule "src/Platforms/Itchio"]
 	path = src/Platforms/Itchio
 	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Platform.Itchio.git
+[submodule "src/Physics/Bepu"]
+	path = src/Physics/Bepu
+	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Physics.Bepu.git
+[submodule "src/Physics/Farseer"]
+	path = src/Physics/Farseer
+	url = git@github.com:VirtexEdgeDesign/VerticesEngine.Physics.Farseer.git
+[submodule "src/AppDemo/src/shared/Content/vxengine"]
+	path = src/AppDemo/src/shared/Content/vxengine
+	url = git@github.com:VirtexEdgeDesign/VerticesEngine.CoreContent.git

@@ -9241,193 +9241,6 @@
 /processorParam:TextureFormat=Color
 /build:vxengine/textures/sandbox/tlbr/misc/ref/check_box.png
 
-#begin vxengine/models/titleScreen/sphere/sphere.fbx
-/importer:FbxImporter
-/processor:vxMeshProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:DefaultEffect=BasicEffect
-/processorParam:GenerateMipmaps=True
-/processorParam:GenerateTangentFrames=True
-/processorParam:PremultiplyTextureAlpha=True
-/processorParam:PremultiplyVertexColors=True
-/processorParam:ResizeTexturesToPowerOfTwo=False
-/processorParam:RotationX=0
-/processorParam:RotationY=0
-/processorParam:RotationZ=0
-/processorParam:Scale=1
-/processorParam:SwapWindingOrder=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/sphere/sphere.fbx
-
-#begin vxengine/models/titleScreen/logo/spliiter_dark.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/spliiter_dark.png
-
-#begin vxengine/models/titleScreen/logo/spliiter.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/spliiter.png
-
-#begin vxengine/models/titleScreen/logo/vrtx/vrtx_title.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtx/vrtx_title.png
-
-#begin vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark.png
-
-#begin vxengine/models/titleScreen/logo/vrtx/logo_btn.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtx/logo_btn.png
-
-#begin vxengine/models/titleScreen/logo/vrtx/vrtx_btn.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtx/vrtx_btn.png
-
-#begin vxengine/models/titleScreen/logo/vrtx/logo_72.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtx/logo_72.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/built_with.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/built_with.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/vrtc_title.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/vrtc_title.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/built_with_dark.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/built_with_dark.png
-
-#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128.png
-/importer:TextureImporter
-/processor:TextureProcessor
-/processorParam:ColorKeyColor=255,0,255,255
-/processorParam:ColorKeyEnabled=True
-/processorParam:GenerateMipmaps=True
-/processorParam:PremultiplyAlpha=True
-/processorParam:ResizeToPowerOfTwo=False
-/processorParam:MakeSquare=False
-/processorParam:TextureFormat=Color
-/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128.png
-
 #begin vxengine/titleScreen/sphere/sphere.fbx
 /importer:FbxImporter
 /processor:vxMeshProcessor
@@ -9525,7 +9338,7 @@
 /processorParam:Quality=Best
 /build:vxengine/sndFx/Menu/Click/previous/2Menu_Click.wav
 
-#begin vxengine/models/lghtng/unit_sphere.fbx
+#begin vxengine/models/titleScreen/sphere/sphere.fbx
 /importer:FbxImporter
 /processor:vxMeshProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -9542,26 +9355,175 @@
 /processorParam:Scale=1
 /processorParam:SwapWindingOrder=False
 /processorParam:TextureFormat=Color
-/build:vxengine/models/lghtng/unit_sphere.fbx
+/build:vxengine/models/titleScreen/sphere/sphere.fbx
 
-#begin vxengine/models/lghtng/unit_sphere_mg.fbx
-/importer:FbxImporter
-/processor:vxMeshProcessor
+#begin vxengine/models/titleScreen/logo/spliiter.png
+/importer:TextureImporter
+/processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
 /processorParam:ColorKeyEnabled=True
-/processorParam:DefaultEffect=BasicEffect
 /processorParam:GenerateMipmaps=True
-/processorParam:GenerateTangentFrames=True
-/processorParam:PremultiplyTextureAlpha=True
-/processorParam:PremultiplyVertexColors=True
-/processorParam:ResizeTexturesToPowerOfTwo=False
-/processorParam:RotationX=0
-/processorParam:RotationY=0
-/processorParam:RotationZ=0
-/processorParam:Scale=1
-/processorParam:SwapWindingOrder=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:vxengine/models/lghtng/unit_sphere_mg.fbx
+/build:vxengine/models/titleScreen/logo/spliiter.png
+
+#begin vxengine/models/titleScreen/logo/spliiter_dark.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/spliiter_dark.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/built_with.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/built_with.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/built_with_dark.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/built_with_dark.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_128.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_256.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/vrtc_logo_512.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/vrtc_title.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/vrtc_title.png
+
+#begin vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtc/vrtc_title_dark.png
+
+#begin vxengine/models/titleScreen/logo/vrtx/logo_72.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtx/logo_72.png
+
+#begin vxengine/models/titleScreen/logo/vrtx/logo_btn.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtx/logo_btn.png
+
+#begin vxengine/models/titleScreen/logo/vrtx/vrtx_btn.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtx/vrtx_btn.png
+
+#begin vxengine/models/titleScreen/logo/vrtx/vrtx_title.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtx/vrtx_title.png
+
+#begin vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=True
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:vxengine/models/titleScreen/logo/vrtx/vrtx_title_dark.png
 
 #begin vxengine/fonts/font_splash_24.spritefont
 /importer:FontDescriptionImporter
