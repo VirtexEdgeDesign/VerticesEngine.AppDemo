@@ -1521,5 +1521,8 @@ var annotated_dup =
     [ "VirtexTemplate", "namespace_virtex_template.html", [
       [ "VehicleInput", "class_virtex_template_1_1_vehicle_input.html", "class_virtex_template_1_1_vehicle_input" ]
     ] ],
+    [ "CascadeBlendingInfo", "struct_cascade_blending_info.html", null ],
+    [ "ShadowData", "struct_shadow_data.html", null ],
+    [ "ShadowSplitInfo", "struct_shadow_split_info.html", null ],
     [ "vxExtensions", "classvx_extensions.html", "classvx_extensions" ]
 ];

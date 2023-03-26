@@ -95,6 +95,7 @@ var NAVTREE =
         [ "Pong", "md__github_workspace_src__app_demo__r_e_a_d_m_e.html#autotoc_md31", null ]
       ] ]
     ] ],
+    [ "LICENSE", "md__github_workspace_src__app_demo_src_shared__content_vxengine__l_i_c_e_n_s_e.html", null ],
     [ "VerticesEngine.CoreContent", "md__github_workspace_src__app_demo_src_shared__content_vxengine__r_e_a_d_m_e.html", null ],
     [ "Vertices Engine Tempaltes", "md__github_workspace_src__core_docs__r_e_a_d_m_e.html", [
       [ "Status", "md__github_workspace_src__core_docs__r_e_a_d_m_e.html#autotoc_md34", null ],
@@ -495,7 +496,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"annotated.html",
+"_shadow_8h_source.html",
 "class_b_e_p_uik_1_1_i_k_twist_joint.html#a727986bb783d1d1c63e1b0f318bf3913",
 "class_b_e_p_uphysics_1_1_broad_phase_entries_1_1_mobile_collidables_1_1_compound_helper.html#a297ecafe1f816a525e8f07dd0f7b5019",
 "class_b_e_p_uphysics_1_1_character_1_1_character_controller.html#a6b85157d8063d70eb2fb95a647e3da36",
@@ -549,19 +550,19 @@ var NAVTREEINDEX =
 "class_vertices_engine_1_1vx_gameplay_scene3_d.html#a8e36b9dbe32a89b7ae008bb118624564",
 "class_vertices_engine_1_1vx_math_helper.html#a3b0d917b029287f908a0ecfb1ba45ae4",
 "class_vertices_engine_1_1vx_scene_manager.html#a32d4af6d6c3c0903da9b5f83e11a5134",
-"classvx_extensions.html#a7606592d52adb5b6b85ccc5eaf6c054d",
-"interface_b_e_p_uphysics_1_1_constraints_1_1_i1_d_jacobian_constraint.html#a46918318ed0e03813b9c5f930f8f1aa3",
-"interface_vertices_engine_1_1_net_1_1_i_network_session_manager.html#a8d2d14ae5ed36aa2acb4014e783ae50b",
-"md__github_workspace_src__core__r_e_a_d_m_e.html",
-"md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md362",
-"namespace_farseer_physics_1_1_common_1_1_decomposition_1_1_c_d_t.html",
-"namespace_vertices_engine_1_1_net.html#a4f1ffb30e328dedb2c447cbf60a84a1ba1503a8dab3eeb8ce696a32b78f80d4ce",
-"struct_b_e_p_uphysics_1_1_character_1_1_character_contact.html#a294d12a7f9a9cf65dffdc22c9dcbdacf",
-"struct_b_e_p_uphysics_1_1_deactivation_management_1_1_simulation_island_member_list_1_1_enumerator.html#a0d069ef16ba41e2bb9953a433b881bd8",
-"struct_b_e_p_uutilities_1_1_data_structures_1_1_quick_queue.html#a80f35e9982541280a42557f43d80f184",
-"struct_b_e_p_uutilities_1_1_matrix3x2.html#aa2cb93170c8008ece3a617af7a086e72",
-"struct_farseer_physics_1_1_collision_1_1_ray_cast_input.html",
-"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_set_player_as_host.html#ae7548946009872a051f3edc91275cc31"
+"classvx_extensions.html#a75019fceac9c86aa35017dcfee6bad71",
+"interface_b_e_p_uphysics_1_1_constraints_1_1_i1_d_jacobian_constraint.html#a111d6c4733a45aece6a6ae6d1e6ff816",
+"interface_vertices_engine_1_1_monetization_1_1_purchases_1_1vx_i_in_app_purchase_provider.html#af542b473796929efa4581749de60d895",
+"md__github_workspace__r_e_a_d_m_e.html",
+"md__github_workspace_src__platforms__itchio_docs__r_e_a_d_m_e.html#autotoc_md303",
+"namespace_farseer_physics_1_1_common_1_1_convex_hull.html",
+"namespace_vertices_engine_1_1_net.html#a1f877c29fd4aa1482104216957ec7554a59da5ec400b1480ff480fbee97065a36",
+"struct_b_e_p_uphysics_1_1_broad_phase_systems_1_1_broad_phase_overlap.html#aca0f9e5bfe3ff62a69fae65e49d15aad",
+"struct_b_e_p_uphysics_1_1_deactivation_management_1_1_simulation_island_member_list.html#a638d4949627f0d69fbba33412ae0848c",
+"struct_b_e_p_uutilities_1_1_data_structures_1_1_quick_queue.html#a2790e99aa0145772c6cf418e7aad1a0a",
+"struct_b_e_p_uutilities_1_1_matrix3x2.html#a6f2810a3c276f8215024c2ee129c2367",
+"struct_farseer_physics_1_1_collision_1_1_manifold_point.html",
+"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_set_player_as_host.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

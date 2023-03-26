@@ -56,6 +56,7 @@ var hierarchy =
     [ "VerticesEngine.Controllers.CameraControlScheme", "class_vertices_engine_1_1_controllers_1_1_camera_control_scheme.html", [
       [ "VerticesEngine.Controllers.CharacterCameraControlScheme", "class_vertices_engine_1_1_controllers_1_1_character_camera_control_scheme.html", null ]
     ] ],
+    [ "CascadeBlendingInfo", "struct_cascade_blending_info.html", null ],
     [ "FarseerPhysics.Common.ConvexHull.ChainHull", "class_farseer_physics_1_1_common_1_1_convex_hull_1_1_chain_hull.html", null ],
     [ "BEPUphysics.Character.CharacterContact", "struct_b_e_p_uphysics_1_1_character_1_1_character_contact.html", null ],
     [ "BEPUphysics.Character.CharacterContactCategorizer", "class_b_e_p_uphysics_1_1_character_1_1_character_contact_categorizer.html", null ],
@@ -1538,6 +1539,8 @@ var hierarchy =
     [ "FarseerPhysics.Collision.SeparationFunction", "class_farseer_physics_1_1_collision_1_1_separation_function.html", null ],
     [ "FarseerPhysics.Settings", "class_farseer_physics_1_1_settings.html", null ],
     [ "VerticesEngine.vxInternalAssets.Shaders", "class_vertices_engine_1_1vx_internal_assets_1_1_shaders.html", null ],
+    [ "ShadowData", "struct_shadow_data.html", null ],
+    [ "ShadowSplitInfo", "struct_shadow_split_info.html", null ],
     [ "FarseerPhysics.Collision.Shapes.Shape", "class_farseer_physics_1_1_collision_1_1_shapes_1_1_shape.html", [
       [ "FarseerPhysics.Collision.Shapes.ChainShape", "class_farseer_physics_1_1_collision_1_1_shapes_1_1_chain_shape.html", null ],
       [ "FarseerPhysics.Collision.Shapes.CircleShape", "class_farseer_physics_1_1_collision_1_1_shapes_1_1_circle_shape.html", null ],
