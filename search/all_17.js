@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['yaw_0',['Yaw',['../class_vertices_engine_1_1vx_camera3_d.html#ae5f58dd5c8f9b04dd053980e086551d4',1,'VerticesEngine::vxCamera3D']]],
-  ['yesno_1',['YesNo',['../namespace_vertices_engine_1_1_utilities.html#a3fcf04254bb6f4bac5a1f946460e10d6ab65ffbcb4dcfb93ecdc257d6e4ba42c4',1,'VerticesEngine::Utilities']]],
-  ['yesnocancel_2',['YesNoCancel',['../namespace_vertices_engine_1_1_utilities.html#a3fcf04254bb6f4bac5a1f946460e10d6a71fc7b7aece69111c0b6967de4b101c5',1,'VerticesEngine::Utilities']]]
+  ['xaxis_0',['XAxis',['../class_b_e_p_uphysics_1_1_constraints_1_1_joint_basis3_d.html#a75f9cc01dffbadec8e9394b71cdc5c77',1,'BEPUphysics.Constraints.JointBasis3D.XAxis()'],['../class_b_e_p_uphysics_1_1_constraints_1_1_joint_basis2_d.html#a05be47f29e5b72eed146bbe6d7fd1bde',1,'BEPUphysics.Constraints.JointBasis2D.XAxis()']]],
+  ['xml_1',['Xml',['../class_vertices_engine_1_1_droid_1_1_resource_1_1_xml.html',1,'VerticesEngine::Droid::Resource']]]
 ];

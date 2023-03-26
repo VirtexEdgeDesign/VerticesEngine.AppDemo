@@ -149,7 +149,7 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>PreSave</b> (
 <tr class="memitem:aaa51f7b19bbb52fc90ec87c7ece64557"><td class="memItemLeft" align="right" valign="top">virtual Texture2D&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#aaa51f7b19bbb52fc90ec87c7ece64557">GetSpriteSheet</a> ()</td></tr>
 <tr class="memdesc:aaa51f7b19bbb52fc90ec87c7ece64557"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get's this entities Sprite Sheet. the Default is '<a class="el" href="class_vertices_engine_1_1_graphics_1_1vx_graphics.html#a1dff6d0ac3dadbcf56bf56f5bf52a3da" title="The global sprite sheet which all draw calls should reference for effeciency.">vxGraphics.MainSpriteSheet</a>'. Override to use your own static sprite sheets, but you must batch your entities which use the same sprite sheet together.  <br /></td></tr>
 <tr class="separator:aaa51f7b19bbb52fc90ec87c7ece64557"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c4d8c71016f41f4211bc2a4f8b54400"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a5c4d8c71016f41f4211bc2a4f8b54400">vxEntity2D</a> (<a class="el" href="class_vertices_engine_1_1vx_gameplay_scene2_d.html">vxGameplayScene2D</a> Scene, Rectangle spriteSheetLocation, Vector2 <a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#ab6e2101bda58e84a0f0aaa9ccd82161f">Position</a>)</td></tr>
+<tr class="memitem:a5c4d8c71016f41f4211bc2a4f8b54400"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a5c4d8c71016f41f4211bc2a4f8b54400">vxEntity2D</a> (<a class="el" href="class_vertices_engine_1_1vx_gameplay_scene2_d.html">vxGameplayScene2D</a> Scene, Rectangle spriteSheetLocation, Vector2 <a class="el" href="struct_farseer_physics_1_1_dynamics_1_1_position.html">Position</a>)</td></tr>
 <tr class="memdesc:a5c4d8c71016f41f4211bc2a4f8b54400"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initializes a new instance of the T:VerticesEngine.Entities.vxEntity2D class.  <br /></td></tr>
 <tr class="separator:a5c4d8c71016f41f4211bc2a4f8b54400"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3455a9eb44f2a861638af67e7ee321ca"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a3455a9eb44f2a861638af67e7ee321ca">vxEntity2D</a> (<a class="el" href="class_vertices_engine_1_1vx_gameplay_scene2_d.html">vxGameplayScene2D</a> Scene, Texture2D texture, Vector2 position)</td></tr>
@@ -162,10 +162,10 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>PreSave</b> (
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>DrawDistoriton</b> ()</td></tr>
 <tr class="separator:a4feaa2ef59078860a6a5bac305206ed2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa92a474ba22f80fd57594b2486c6bdb1"><td class="memItemLeft" align="right" valign="top"><a id="aa92a474ba22f80fd57594b2486c6bdb1" name="aa92a474ba22f80fd57594b2486c6bdb1"></a>
-virtual bool&#160;</td><td class="memItemRight" valign="bottom"><b>OnEntityCollision</b> (Fixture fixtureA, Fixture fixtureB, Contact contact)</td></tr>
+virtual bool&#160;</td><td class="memItemRight" valign="bottom"><b>OnEntityCollision</b> (<a class="el" href="class_farseer_physics_1_1_dynamics_1_1_fixture.html">Fixture</a> fixtureA, <a class="el" href="class_farseer_physics_1_1_dynamics_1_1_fixture.html">Fixture</a> fixtureB, <a class="el" href="class_farseer_physics_1_1_dynamics_1_1_contacts_1_1_contact.html">Contact</a> contact)</td></tr>
 <tr class="separator:aa92a474ba22f80fd57594b2486c6bdb1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a775c4f57450287ba6e57c3cdc8b394e9"><td class="memItemLeft" align="right" valign="top"><a id="a775c4f57450287ba6e57c3cdc8b394e9" name="a775c4f57450287ba6e57c3cdc8b394e9"></a>
-virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEntitySeparation</b> (Fixture fixtureA, Fixture fixtureB)</td></tr>
+virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>OnEntitySeparation</b> (<a class="el" href="class_farseer_physics_1_1_dynamics_1_1_fixture.html">Fixture</a> fixtureA, <a class="el" href="class_farseer_physics_1_1_dynamics_1_1_fixture.html">Fixture</a> fixtureB)</td></tr>
 <tr class="separator:a775c4f57450287ba6e57c3cdc8b394e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2d3bf1654216f13964e9acd9685c962"><td class="memItemLeft" align="right" valign="top"><a id="aa2d3bf1654216f13964e9acd9685c962" name="aa2d3bf1654216f13964e9acd9685c962"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>Draw</b> (<a class="el" href="class_vertices_engine_1_1vx_camera.html">vxCamera</a> camera, string renderpass)</td></tr>
@@ -185,7 +185,7 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>StopAnimation</b> ()<
 virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>DrawAnimation</b> ()</td></tr>
 <tr class="memdesc:a108082d4e6203e09c28303c19cf9e8b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Advances the time position and draws the current frame of the animation. <br /></td></tr>
 <tr class="separator:a108082d4e6203e09c28303c19cf9e8b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8e2f2c7c72c4178119fa8b52cbe13c29"><td class="memItemLeft" align="right" valign="top">Body&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a8e2f2c7c72c4178119fa8b52cbe13c29">GetBodyFromTexture</a> (Texture2D texture, World world, BodyType bodyType)</td></tr>
+<tr class="memitem:a8e2f2c7c72c4178119fa8b52cbe13c29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_farseer_physics_1_1_dynamics_1_1_body.html">Body</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a8e2f2c7c72c4178119fa8b52cbe13c29">GetBodyFromTexture</a> (Texture2D texture, <a class="el" href="class_farseer_physics_1_1_dynamics_1_1_world.html">World</a> world, <a class="el" href="namespace_farseer_physics_1_1_dynamics.html#ab48af7c74608f717f279410b48d77199">BodyType</a> bodyType)</td></tr>
 <tr class="memdesc:a8e2f2c7c72c4178119fa8b52cbe13c29"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the body from texture.  <br /></td></tr>
 <tr class="separator:a8e2f2c7c72c4178119fa8b52cbe13c29"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac98783cfd7e798f9c95cfda1b6c12345"><td class="memItemLeft" align="right" valign="top">Vector2&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#ac98783cfd7e798f9c95cfda1b6c12345">GetRotatedVector</a> (float rotation)</td></tr>
@@ -263,7 +263,7 @@ float&#160;</td><td class="memItemRight" valign="bottom"><b>Scale</b> = 1f</td><
 <tr class="memdesc:a1abe6b7d92e84d9072ebd459ab876ea0"><td class="mdescLeft">&#160;</td><td class="mdescRight">The scale. <br /></td></tr>
 <tr class="separator:a1abe6b7d92e84d9072ebd459ab876ea0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7946e943cd32b24445fc3c24cc78d55a"><td class="memItemLeft" align="right" valign="top"><a id="a7946e943cd32b24445fc3c24cc78d55a" name="a7946e943cd32b24445fc3c24cc78d55a"></a>
-Body&#160;</td><td class="memItemRight" valign="bottom"><b>_physicsBody</b></td></tr>
+<a class="el" href="class_farseer_physics_1_1_dynamics_1_1_body.html">Body</a>&#160;</td><td class="memItemRight" valign="bottom"><b>_physicsBody</b></td></tr>
 <tr class="separator:a7946e943cd32b24445fc3c24cc78d55a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a461480fbd5279aaf9d584ceb5884870c"><td class="memItemLeft" align="right" valign="top"><a id="a461480fbd5279aaf9d584ceb5884870c" name="a461480fbd5279aaf9d584ceb5884870c"></a>
 SpriteEffects&#160;</td><td class="memItemRight" valign="bottom"><b>SpriteEffect</b></td></tr>
@@ -448,11 +448,11 @@ Vector2&#160;</td><td class="memItemRight" valign="bottom"><b>PreviousVelocity</
 <tr class="memdesc:a5b673fd32fbf507d268f045541665d4c"><td class="mdescLeft">&#160;</td><td class="mdescRight">The previous velocity. <br /></td></tr>
 <tr class="separator:a5b673fd32fbf507d268f045541665d4c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1d9a42506ad4d587c2c9b8ce77315ff5"><td class="memItemLeft" align="right" valign="top"><a id="a1d9a42506ad4d587c2c9b8ce77315ff5" name="a1d9a42506ad4d587c2c9b8ce77315ff5"></a>
-Body&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicCollider</b><code> [get, set]</code></td></tr>
+<a class="el" href="class_farseer_physics_1_1_dynamics_1_1_body.html">Body</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicCollider</b><code> [get, set]</code></td></tr>
 <tr class="memdesc:a1d9a42506ad4d587c2c9b8ce77315ff5"><td class="mdescLeft">&#160;</td><td class="mdescRight">The Farseer Physics Body (Note, it's not used in all instances of this class, so do a !=null check) <br /></td></tr>
 <tr class="separator:a1d9a42506ad4d587c2c9b8ce77315ff5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad6bc82212d9a47cc86c905ef7dd91933"><td class="memItemLeft" align="right" valign="top"><a id="ad6bc82212d9a47cc86c905ef7dd91933" name="ad6bc82212d9a47cc86c905ef7dd91933"></a>
-World&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsSimulation</b><code> [get]</code></td></tr>
+<a class="el" href="class_farseer_physics_1_1_dynamics_1_1_world.html">World</a>&#160;</td><td class="memItemRight" valign="bottom"><b>PhysicsSimulation</b><code> [get]</code></td></tr>
 <tr class="memdesc:ad6bc82212d9a47cc86c905ef7dd91933"><td class="mdescLeft">&#160;</td><td class="mdescRight">The world. <br /></td></tr>
 <tr class="separator:ad6bc82212d9a47cc86c905ef7dd91933"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3a4aa315dbad21b588e3a91e14d90154"><td class="memItemLeft" align="right" valign="top">Texture2D&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_vertices_engine_1_1vx_entity2_d.html#a3a4aa315dbad21b588e3a91e14d90154">Texture</a><code> [get, set]</code></td></tr>
@@ -761,7 +761,7 @@ static List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">Body VerticesEngine.vxEntity2D.GetBodyFromTexture </td>
+          <td class="memname"><a class="el" href="class_farseer_physics_1_1_dynamics_1_1_body.html">Body</a> VerticesEngine.vxEntity2D.GetBodyFromTexture </td>
           <td>(</td>
           <td class="paramtype">Texture2D&#160;</td>
           <td class="paramname"><em>texture</em>, </td>
@@ -769,13 +769,13 @@ static List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">World&#160;</td>
+          <td class="paramtype"><a class="el" href="class_farseer_physics_1_1_dynamics_1_1_world.html">World</a>&#160;</td>
           <td class="paramname"><em>world</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">BodyType&#160;</td>
+          <td class="paramtype"><a class="el" href="namespace_farseer_physics_1_1_dynamics.html#ab48af7c74608f717f279410b48d77199">BodyType</a>&#160;</td>
           <td class="paramname"><em>bodyType</em>&#160;</td>
         </tr>
         <tr>

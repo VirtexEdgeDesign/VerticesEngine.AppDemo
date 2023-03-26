@@ -110,20 +110,20 @@ $(document).ready(function(){initNavTree('md__github_workspace_src__platforms__s
 </div><!--header-->
 <div class="contents">
 <div class="textblock"><p>Below is the function to setup In App Purchases on different platforms. Currently In App Purchases are only supported on mobile platforms.</p>
-<h1><a class="anchor" id="autotoc_md286"></a>
+<h1><a class="anchor" id="autotoc_md339"></a>
 Setup</h1>
 <p>You'll need to add the InAppBilling nuget package.</p>
-<h2><a class="anchor" id="autotoc_md287"></a>
+<h2><a class="anchor" id="autotoc_md340"></a>
 Android</h2>
 <p>For Android you'll also need to add the following permission to your <code>AndroidManifest.xml</code> file. </p><div class="fragment"><div class="line">&lt;uses-permission android:name=&quot;com.android.vending.BILLING&quot; /&gt;</div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md288"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md341"></a>
 Product Keys and SKU</h1>
 <p>You'll need to add your products in the respective stores, and then have a corresponding key in code. This is often setup as an <code>enum</code>.</p>
 <div class="fragment"><div class="line"><span class="keyword">public</span> <span class="keyword">enum</span> InAppProductTypes</div>
 <div class="line">{</div>
 <div class="line">    GoAddFree,</div>
 <div class="line">}</div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md289"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md342"></a>
 Initialise Products</h1>
 <p>In your main game class which inherits from <code>vxGame</code>, override the <code>InitInAppProducts()</code> method.</p>
 <div class="fragment"><div class="line"><span class="keyword">protected</span> <span class="keyword">override</span> <span class="keywordtype">void</span> InitInAppProducts()</div>
@@ -139,7 +139,7 @@ Initialise Products</h1>
 <div class="line">    vxInAppProductManager.Instance.RestorePurchases();</div>
 <div class="line">}</div>
 <div class="ttc" id="anamespace_vertices_engine_1_1_monetization_1_1_purchases_html_a431e745460b427efba6a29baf4157b8c"><div class="ttname"><a href="namespace_vertices_engine_1_1_monetization_1_1_purchases.html#a431e745460b427efba6a29baf4157b8c">VerticesEngine.Monetization.Purchases.vxInAppProductType</a></div><div class="ttdeci">vxInAppProductType</div><div class="ttdoc">Types of items which can be bought.</div><div class="ttdef"><b>Definition:</b> vxInAppProductType.cs:11</div></div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md290"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md343"></a>
 Check If Purchased</h1>
 <p>All purchases are restored on launch, if you'd like to check if an item has been previously purchased you can do so by calling:</p>
 <div class="fragment"><div class="line"><span class="keywordflow">if</span> (vxInAppProductManager.Instance.GetProduct(InAppProductTypes.GoAddFree).IsPurchased == <span class="keyword">false</span>)</div>

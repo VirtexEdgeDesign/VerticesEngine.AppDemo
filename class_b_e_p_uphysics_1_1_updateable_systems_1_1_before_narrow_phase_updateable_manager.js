@@ -1,0 +1,4 @@
+var class_b_e_p_uphysics_1_1_updateable_systems_1_1_before_narrow_phase_updateable_manager =
+[
+    [ "BeforeNarrowPhaseUpdateableManager", "class_b_e_p_uphysics_1_1_updateable_systems_1_1_before_narrow_phase_updateable_manager.html#a9edd694c39f9ae38b50f074b7fc89bc4", null ]
+];
