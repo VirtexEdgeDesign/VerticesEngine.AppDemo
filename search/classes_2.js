@@ -16,7 +16,7 @@ var searchData=
   ['characterpairlocker_13',['CharacterPairLocker',['../class_b_e_p_uphysics_1_1_character_1_1_character_pair_locker.html',1,'BEPUphysics::Character']]],
   ['charactersynchronizer_14',['CharacterSynchronizer',['../class_b_e_p_uphysics_1_1_character_1_1_character_synchronizer.html',1,'BEPUphysics::Character']]],
   ['circleshape_15',['CircleShape',['../class_farseer_physics_1_1_collision_1_1_shapes_1_1_circle_shape.html',1,'FarseerPhysics::Collision::Shapes']]],
-  ['class1_16',['Class1',['../class_vertices_engine_1_1_core_1_1_android_1_1_class1.html',1,'VerticesEngine.Core.Android.Class1'],['../class_vertices_engine_1_1_lib_1_1i_o_s_1_1_class1.html',1,'VerticesEngine.Lib.iOS.Class1']]],
+  ['class1_16',['Class1',['../class_vertices_engine_1_1_core_1_1_android_1_1_class1.html',1,'VerticesEngine::Core::Android']]],
   ['clipvertex_17',['ClipVertex',['../struct_farseer_physics_1_1_collision_1_1_clip_vertex.html',1,'FarseerPhysics::Collision']]],
   ['collidable_18',['Collidable',['../class_b_e_p_uphysics_1_1_broad_phase_entries_1_1_collidable.html',1,'BEPUphysics::BroadPhaseEntries']]],
   ['collidablecollection_19',['CollidableCollection',['../struct_b_e_p_uphysics_1_1_broad_phase_entries_1_1_collidable_collection.html',1,'BEPUphysics::BroadPhaseEntries']]],

@@ -63,7 +63,6 @@ var hierarchy =
     [ "VerticesEngine.Controllers.CharacterControllerInput", "class_vertices_engine_1_1_controllers_1_1_character_controller_input.html", null ],
     [ "BEPUphysics.Character.CharacterPairLocker", "class_b_e_p_uphysics_1_1_character_1_1_character_pair_locker.html", null ],
     [ "VerticesEngine.Core.Android.Class1", "class_vertices_engine_1_1_core_1_1_android_1_1_class1.html", null ],
-    [ "VerticesEngine.Lib.iOS.Class1", "class_vertices_engine_1_1_lib_1_1i_o_s_1_1_class1.html", null ],
     [ "FarseerPhysics.Collision.ClipVertex", "struct_farseer_physics_1_1_collision_1_1_clip_vertex.html", null ],
     [ "FarseerPhysics.Collision.Collision", "class_farseer_physics_1_1_collision_1_1_collision.html", null ],
     [ "BEPUphysics.Settings.CollisionDetectionSettings", "class_b_e_p_uphysics_1_1_settings_1_1_collision_detection_settings.html", null ],
@@ -318,13 +317,11 @@ var hierarchy =
       [ "BEPUphysics.UpdateableSystems.ForceFields.VolumeForceFieldShape", "class_b_e_p_uphysics_1_1_updateable_systems_1_1_force_fields_1_1_volume_force_field_shape.html", null ]
     ] ],
     [ "Game", null, [
-      [ "Game1.Game1", "class_game1_1_1_game1.html", null ],
       [ "VerticesEngine.AppDemo.Android.Game1", "class_vertices_engine_1_1_app_demo_1_1_android_1_1_game1.html", null ],
       [ "VerticesEngine.DX.Game1", "class_vertices_engine_1_1_d_x_1_1_game1.html", null ],
       [ "VerticesEngine.vxGame", "class_vertices_engine_1_1vx_game.html", [
         [ "VerticesEngine.AppDemo.VerticesTechDemoGame", "class_vertices_engine_1_1_app_demo_1_1_vertices_tech_demo_game.html", null ]
-      ] ],
-      [ "VerticesEngineAppDemo.Shared.Game1", "class_vertices_engine_app_demo_1_1_shared_1_1_game1.html", null ]
+      ] ]
     ] ],
     [ "VerticesEngine.Serilization.GameInfo", "class_vertices_engine_1_1_serilization_1_1_game_info.html", null ],
     [ "VerticesEngine.Input.vxInput.GamePadSettings", "class_vertices_engine_1_1_input_1_1vx_input_1_1_game_pad_settings.html", null ],
@@ -853,8 +850,7 @@ var hierarchy =
             [ "VerticesEngine.AppDemo.IntroScene", "class_vertices_engine_1_1_app_demo_1_1_intro_scene.html", null ],
             [ "VerticesEngine.AppDemo.SponzaLightingTestLevel", "class_vertices_engine_1_1_app_demo_1_1_sponza_lighting_test_level.html", null ],
             [ "VerticesEngine.Screens.vxModelViewer", "class_vertices_engine_1_1_screens_1_1vx_model_viewer.html", [
-              [ "VerticesEngine.AppDemo.ModelViewerScene", "class_vertices_engine_1_1_app_demo_1_1_model_viewer_scene.html", null ],
-              [ "Virtex.App.VerticesTechDemo.ModelViewerScene", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_viewer_scene.html", null ]
+              [ "VerticesEngine.AppDemo.ModelViewerScene", "class_vertices_engine_1_1_app_demo_1_1_model_viewer_scene.html", null ]
             ] ]
           ] ]
         ] ]
@@ -1316,9 +1312,6 @@ var hierarchy =
     [ "BEPUutilities.Matrix3x2", "struct_b_e_p_uutilities_1_1_matrix3x2.html", null ],
     [ "BEPUutilities.Matrix3x3", "struct_b_e_p_uutilities_1_1_matrix3x3.html", null ],
     [ "FarseerPhysics.Common.ConvexHull.Melkman", "class_farseer_physics_1_1_common_1_1_convex_hull_1_1_melkman.html", null ],
-    [ "MenuScreen", null, [
-      [ "MetricRacer.Base.PauseMenuScreen", "class_metric_racer_1_1_base_1_1_pause_menu_screen.html", null ]
-    ] ],
     [ "BEPUphysicsDrawer.Models.MeshBase", "class_b_e_p_uphysics_drawer_1_1_models_1_1_mesh_base.html", [
       [ "BEPUphysicsDrawer.Models.CustomMesh< EntityCollidable >", "class_b_e_p_uphysics_drawer_1_1_models_1_1_custom_mesh.html", [
         [ "BEPUphysicsDrawer.Models.DisplayEntityCollidable", "class_b_e_p_uphysics_drawer_1_1_models_1_1_display_entity_collidable.html", null ]
@@ -1669,7 +1662,6 @@ var hierarchy =
     [ "BEPUphysics.Paths.VariableSpeedCurve< Vector3 >", "class_b_e_p_uphysics_1_1_paths_1_1_variable_speed_curve.html", [
       [ "BEPUphysics.Paths.VariableLinearSpeedCurve", "class_b_e_p_uphysics_1_1_paths_1_1_variable_linear_speed_curve.html", null ]
     ] ],
-    [ "VirtexTemplate.VehicleInput", "class_virtex_template_1_1_vehicle_input.html", null ],
     [ "FarseerPhysics.Dynamics.Velocity", "struct_farseer_physics_1_1_dynamics_1_1_velocity.html", null ],
     [ "FarseerPhysics.Dynamics.Contacts.VelocityConstraintPoint", "class_farseer_physics_1_1_dynamics_1_1_contacts_1_1_velocity_constraint_point.html", null ],
     [ "BEPUphysics.Constraints.TwoEntity.Motors.VelocityMotorSettings", "class_b_e_p_uphysics_1_1_constraints_1_1_two_entity_1_1_motors_1_1_velocity_motor_settings.html", [
@@ -1864,9 +1856,6 @@ var hierarchy =
     [ "VerticesEngine.Graphics.vxMeshHelper", "class_vertices_engine_1_1_graphics_1_1vx_mesh_helper.html", null ],
     [ "VerticesEngine.Graphics.vxMeshSet", "class_vertices_engine_1_1_graphics_1_1vx_mesh_set.html", null ],
     [ "VerticesEngine.Plugins.Mods.vxModConfig", "class_vertices_engine_1_1_plugins_1_1_mods_1_1vx_mod_config.html", null ],
-    [ "vxModelViewer", null, [
-      [ "Virtex.App.VerticesTechDemo.ModelViewer", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_viewer.html", null ]
-    ] ],
     [ "VerticesEngine.Graphics.vxModelVoxel", "class_vertices_engine_1_1_graphics_1_1vx_model_voxel.html", null ],
     [ "VerticesEngine.Plugins.Mods.vxModItemStatus", "struct_vertices_engine_1_1_plugins_1_1_mods_1_1vx_mod_item_status.html", null ],
     [ "VerticesEngine.Net.vxNetBuffer", "class_vertices_engine_1_1_net_1_1vx_net_buffer.html", null ],
@@ -1903,22 +1892,10 @@ var hierarchy =
     [ "VerticesEngine.Diagnostics.vxProfiler", "class_vertices_engine_1_1_diagnostics_1_1vx_profiler.html", null ],
     [ "VerticesEngine.UI.Controls.vxPropertyAttributePair", "class_vertices_engine_1_1_u_i_1_1_controls_1_1vx_property_attribute_pair.html", null ],
     [ "VerticesEngine.vxRandom", "class_vertices_engine_1_1vx_random.html", null ],
-    [ "vxSandboxEntity", null, [
-      [ "VerticeEnginePort.Base.Torch", "class_vertice_engine_port_1_1_base_1_1_torch.html", null ],
-      [ "Virtex.App.VerticesTechDemo.ModelObjs", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_objs.html", null ]
-    ] ],
     [ "VerticesEngine.vxSandboxEntityCategory", "class_vertices_engine_1_1vx_sandbox_entity_category.html", null ],
     [ "VerticesEngine.vxSandboxEntityRegistrationInfo", "class_vertices_engine_1_1vx_sandbox_entity_registration_info.html", null ],
     [ "VerticesEngine.vxSandboxEntitySubCategory", "class_vertices_engine_1_1vx_sandbox_entity_sub_category.html", null ],
     [ "VerticesEngine.vxSandboxFileLoadResult", "class_vertices_engine_1_1vx_sandbox_file_load_result.html", null ],
-    [ "vxSandboxGamePlay", null, [
-      [ "Virtex.App.VerticesTechDemo.TechDemoLevelCastle", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle.html", null ],
-      [ "Virtex.App.VerticesTechDemo.TechDemoLevelCastle2", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle2.html", null ]
-    ] ],
-    [ "vxScene3D", null, [
-      [ "VerticeEnginePort.Base.ModelViewerScreen", "class_vertice_engine_port_1_1_base_1_1_model_viewer_screen.html", null ],
-      [ "Virtex.App.VerticesTechDemo.TechDemoLevelFPSDemo", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_f_p_s_demo.html", null ]
-    ] ],
     [ "VerticesEngine.vxSceneManager", "class_vertices_engine_1_1vx_scene_manager.html", null ],
     [ "VerticesEngine.vxScreen", "class_vertices_engine_1_1vx_screen.html", null ],
     [ "VerticesEngine.Serilization.vxSerializableColor", "class_vertices_engine_1_1_serilization_1_1vx_serializable_color.html", null ],

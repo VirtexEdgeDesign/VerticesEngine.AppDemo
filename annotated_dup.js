@@ -714,14 +714,6 @@ var annotated_dup =
       [ "DebugViewBase", "class_farseer_physics_1_1_debug_view_base.html", "class_farseer_physics_1_1_debug_view_base" ],
       [ "Settings", "class_farseer_physics_1_1_settings.html", "class_farseer_physics_1_1_settings" ]
     ] ],
-    [ "Game1", "namespace_game1.html", [
-      [ "Game1", "class_game1_1_1_game1.html", null ]
-    ] ],
-    [ "MetricRacer", "namespace_metric_racer.html", [
-      [ "Base", "namespace_metric_racer_1_1_base.html", [
-        [ "PauseMenuScreen", "class_metric_racer_1_1_base_1_1_pause_menu_screen.html", "class_metric_racer_1_1_base_1_1_pause_menu_screen" ]
-      ] ]
-    ] ],
     [ "Microsoft", "namespace_microsoft.html", [
       [ "Xna", "namespace_microsoft_1_1_xna.html", [
         [ "Framework", "namespace_microsoft_1_1_xna_1_1_framework.html", [
@@ -729,12 +721,6 @@ var annotated_dup =
           [ "CurveKey", "class_microsoft_1_1_xna_1_1_framework_1_1_curve_key.html", null ],
           [ "CurveKeyCollection", "class_microsoft_1_1_xna_1_1_framework_1_1_curve_key_collection.html", null ]
         ] ]
-      ] ]
-    ] ],
-    [ "VerticeEnginePort", "namespace_vertice_engine_port.html", [
-      [ "Base", "namespace_vertice_engine_port_1_1_base.html", [
-        [ "ModelViewerScreen", "class_vertice_engine_port_1_1_base_1_1_model_viewer_screen.html", "class_vertice_engine_port_1_1_base_1_1_model_viewer_screen" ],
-        [ "Torch", "class_vertice_engine_port_1_1_base_1_1_torch.html", "class_vertice_engine_port_1_1_base_1_1_torch" ]
       ] ]
     ] ],
     [ "VerticesEngine", "namespace_vertices_engine.html", [
@@ -977,11 +963,6 @@ var annotated_dup =
         [ "vxKeyBinding", "class_vertices_engine_1_1_input_1_1vx_key_binding.html", null ],
         [ "vxKeyBindings", "class_vertices_engine_1_1_input_1_1vx_key_bindings.html", "class_vertices_engine_1_1_input_1_1vx_key_bindings" ],
         [ "vxPlayerInputComponent", "class_vertices_engine_1_1_input_1_1vx_player_input_component.html", "class_vertices_engine_1_1_input_1_1vx_player_input_component" ]
-      ] ],
-      [ "Lib", "namespace_vertices_engine_1_1_lib.html", [
-        [ "iOS", "namespace_vertices_engine_1_1_lib_1_1i_o_s.html", [
-          [ "Class1", "class_vertices_engine_1_1_lib_1_1i_o_s_1_1_class1.html", null ]
-        ] ]
       ] ],
       [ "Localization", "namespace_vertices_engine_1_1_localization.html", [
         [ "UI", "namespace_vertices_engine_1_1_localization_1_1_u_i.html", [
@@ -1500,26 +1481,6 @@ var annotated_dup =
       [ "vxUtilCameraEntity", "class_vertices_engine_1_1vx_util_camera_entity.html", "class_vertices_engine_1_1vx_util_camera_entity" ],
       [ "vxWaitForSeconds", "class_vertices_engine_1_1vx_wait_for_seconds.html", null ],
       [ "vxWaterEntity", "class_vertices_engine_1_1vx_water_entity.html", "class_vertices_engine_1_1vx_water_entity" ]
-    ] ],
-    [ "VerticesEngineAppDemo", "namespace_vertices_engine_app_demo.html", [
-      [ "Shared", "namespace_vertices_engine_app_demo_1_1_shared.html", [
-        [ "Game1", "class_vertices_engine_app_demo_1_1_shared_1_1_game1.html", null ]
-      ] ]
-    ] ],
-    [ "Virtex", "namespace_virtex.html", [
-      [ "App", "namespace_virtex_1_1_app.html", [
-        [ "VerticesTechDemo", "namespace_virtex_1_1_app_1_1_vertices_tech_demo.html", [
-          [ "ModelObjs", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_objs.html", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_objs" ],
-          [ "ModelViewer", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_viewer.html", null ],
-          [ "ModelViewerScene", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_model_viewer_scene.html", null ],
-          [ "TechDemoLevelCastle", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle.html", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle" ],
-          [ "TechDemoLevelCastle2", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle2.html", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_castle2" ],
-          [ "TechDemoLevelFPSDemo", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_f_p_s_demo.html", "class_virtex_1_1_app_1_1_vertices_tech_demo_1_1_tech_demo_level_f_p_s_demo" ]
-        ] ]
-      ] ]
-    ] ],
-    [ "VirtexTemplate", "namespace_virtex_template.html", [
-      [ "VehicleInput", "class_virtex_template_1_1_vehicle_input.html", "class_virtex_template_1_1_vehicle_input" ]
     ] ],
     [ "CascadeBlendingInfo", "struct_cascade_blending_info.html", null ],
     [ "ShadowData", "struct_shadow_data.html", null ],
