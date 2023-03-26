@@ -386,6 +386,7 @@ var NAVTREE =
       [ "Playing Sound Effects", "md__github_workspace_src__platforms__steam_docs_wiki__sound__sound.html#autotoc_md304", null ]
     ] ],
     [ "Vertices Engine Wiki", "md__github_workspace_src__platforms__steam_docs_wiki_wiki.html", null ],
+    [ "LICENSE", "md__github_workspace_src__platforms__steam__l_i_c_e_n_s_e.html", null ],
     [ "Vertices Engine - Steam Platform Support", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html", [
       [ "Status", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md307", [
         [ "Build Status", "md__github_workspace_src__platforms__steam__r_e_a_d_m_e.html#autotoc_md308", null ]
@@ -460,9 +461,9 @@ var NAVTREEINDEX =
 "functions_func_c.html",
 "interface_vertices_engine_1_1_net_1_1vx_i_network_config.html#a07a35c0061cd3823a7cde892b631d528",
 "md__github_workspace_src__core_src_android__r_e_a_d_m_e.html#autotoc_md104",
-"namespace_vertices_engine.html#a42b8d3cb4121d9a9511af817bcff22c1a344a7f427fb765610ef96eb7bce95257",
-"namespace_vertices_engine_1_1_physics.html#a5bc6adbf24b5524bc4c00981a1a560c7a971fd8cc345d8bd9f92e9f7d88fdf20c",
-"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_update_player_lobby_status.html#ad8333041bcc70b11b2de51949b648519"
+"namespace_vertices_engine.html#a42b8d3cb4121d9a9511af817bcff22c1",
+"namespace_vertices_engine_1_1_physics.html#a5bc6adbf24b5524bc4c00981a1a560c7a84a8921b25f505d0d2077aeb5db4bc16",
+"struct_vertices_engine_1_1_net_1_1_messages_1_1vx_netmsg_update_player_lobby_status.html#a896a96535f7ab639ebe1868d956c7dd2"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
